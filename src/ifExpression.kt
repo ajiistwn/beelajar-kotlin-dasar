@@ -1,5 +1,3 @@
-import java.awt.Choice
-
 fun main(){
 
 //    val nilai = 74
